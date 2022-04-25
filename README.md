@@ -33,7 +33,7 @@ The client wanted a comprehensive analysis on the school district's reading and 
 
 
    * ### Scores by school spending
-    * **Original** <br /> ![all_scores_by_school_spending](https://user-images.githubusercontent.com/98570777/165008668-c1022b1a-2c2a-4126-a625-202d29c11046.png)
+    * **Original** <br /> ![all_scores_by_school_spending](https://user-images.githubusercontent.com/98570777/165018358-99aa7146-3a5b-45ae-a8da-3cca91d1e050.png)
     * **Omitted THS 9th Grade Data** <br />![scores_by_school_spending_no_9_THS ](https://user-images.githubusercontent.com/98570777/165008726-b1bc582d-439d-47a6-8ef5-af8100ff21a3.png)
 
        
