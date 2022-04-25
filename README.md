@@ -57,4 +57,9 @@ The client wanted a comprehensive analysis on the school district's reading and 
 
 ## Summary: 
 ### Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
-large sample size, small amount of data taken out was not enough to affect the whole.
+* District data summary: This data show there was a slight decrease in the average math score while the average reading score reamains the same. The percentage for passing math, reading and overall passing decreases only slightly as well. 
+* Scores by school spending: There were three changes to the Spending Range (Per Student) row "$631-645" The percentage passing math dropped from 73.5% to 66.2%; the percentage passing reading dropped from 84.4% to 77.5%; and the percentage overall passing dropped from 62.9% to 56.4%. The lowest percentage passing overall is 53.5% which is in the highest spending range in both data sets, $646-675 and $646-655.
+* Scores by school size: With the omitted data, the percentages in passing math, reading and overall passing scores in the "Medium (1000-1999)" school size row drop by 5%.
+ * The small changes to the results could be due to the large sample size that was being worked with. The small amount of data taken out was not enough to affect the whole.
+* Thomas High School data summary: These results show a much more substantial decrease in rates of the two datasets. About a 25% decrease for overall percentage passing, percentage passing math and percentage passing reading. 
+ * The large rate of decrease could be due to the absence of 9th grade data. With a smaller sample size, the smallest changes can affect the whole at a much larger scale.
