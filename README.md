@@ -62,4 +62,4 @@ The client wanted a comprehensive analysis on the school district's reading and 
 * Scores by school size: With the omitted data, the percentages in passing math, reading and overall passing scores in the "Medium (1000-1999)" school size row drop by 5%.
   * The small changes to the results could be due to the large sample size that was being worked with. The small amount of data taken out was not enough to affect the whole.
 * Thomas High School data summary: These results show a much more substantial decrease in rates of the two datasets. About a 25% decrease for overall percentage passing, percentage passing math and percentage passing reading. 
-  * The large rate of decrease could be due to the absence of 9th grade data. With a smaller sample size, the smallest changes can affect the whole at a much larger scale.
+  * The large rate of decrease could be due to the absence of 9th grade data. With a smaller sample size, the smallest changes can affect the whole at a much larger scale. 
