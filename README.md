@@ -3,7 +3,7 @@ Module 4
 ## Overview of PyCity Schools Analysis
 The client wanted a comprehensive analysis on the school district's reading and math scores for each high school. Due to scpeculation of academic dishonesty in the 9th grade class at Thomas High School (THS) for reading and math, the client wanted an analysis without those scores. The analysis on the school district's data for reading, math, and overall scores were reconfigured without the potential dishonest scores. Data is organized into top and bottom five schools based on overall passing percentage, average math and reading scores from each school, and scores by spending per student, school size, and school type.
 
-## Results: Using bulleted lists and images of DataFrames as support, address the following questions.
+## Results:
 ### How is the district summary affected?
   * The data show a 0.1% decrease in the average math score, bringing the score down to 78.9%. The average reading score reamains the same. The percentage for passing math decreases by 0.2% bringing it to 74.8%. The percentage for passing reading is brought down to 85.7%, which is a 0.3% decrease. The overall passing percentage decreases by 0.1%, dropping from 65% to 64.9%.
   * **All District Summary DataFrame**  <br />
