@@ -38,7 +38,8 @@ The client wanted a comprehensive analysis on the school district's reading and 
 
        
    * ### Scores by school size
-    * **Original** <br />![all_scores_by_school_size](https://user-images.githubusercontent.com/98570777/165008766-067cd334-a984-4b33-a28e-2e5547afb79f.png)
+    * **Original** <br />![all_scores_by_school_size](https://user-images.githubusercontent.com/98570777/165018795-a9cc9d70-30c1-4b32-937a-fc25b77057bf.png)
+
 
     * **Omitted THS 9th Grade Data** <br />![scores_by_school_size_no_9_THS](https://user-images.githubusercontent.com/98570777/165008780-2602bf82-05f1-484a-99e5-7f089b4757c5.png)
 
