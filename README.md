@@ -21,35 +21,40 @@ The client wanted a comprehensive analysis on the school district's reading and 
   ![school_summary_no_9_THS](https://user-images.githubusercontent.com/98570777/165003273-35dcb59f-721f-4b7d-a4a0-441d387a3da7.png)
   
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-  * 
+  * The performance of THS compared to the other four top schools is quite similar. At first glance, you would not be able to tell the numbers are different. The only slight difference is the approximately 0.3% decrease in % passing math, % passing reading and % overall passing after the THS 9th grader data is omitted.
+  * **Original Top Five Schools**<br />![top_schools_original](https://user-images.githubusercontent.com/98570777/165020982-c84bb270-eb38-4a68-89c1-57b06238157c.png)
 
-* ### How does replacing the ninth-grade scores affect the following:
+  * **Top Five Schools with Omitted THS 9th Grade Data**<br />![top_schools_no_9_THS](https://user-images.githubusercontent.com/98570777/165021285-1492ea22-ab3b-437f-be77-7c5461229bfd.png)
+
+
+### How does replacing the ninth-grade scores affect the following:
    * ### Math and Reading Scores by Grade
-    * **Math Scores by Grade** followed by **Math Scores by Grade, no THS 9th Grade Data** <br />
-   ![all_math_score_by_grade](https://user-images.githubusercontent.com/98570777/165005488-0a51bbf3-3ddc-4d9c-9af6-567b68d2571d.png)![math_score_by_grade_no_9_THS](https://user-images.githubusercontent.com/98570777/165005721-a34941d6-a1ee-423c-9bb1-bb9f2b5ecc12.png)
+     *  The only change in both math and reading scores by grade is the absensce of the 9th grade value for THS.
+     * **Math Scores by Grade** followed by **Math Scores by Grade, no THS 9th Grade Data** <br />
+    ![all_math_score_by_grade](https://user-images.githubusercontent.com/98570777/165005488-0a51bbf3-3ddc-4d9c-9af6-567b68d2571d.png)![math_score_by_grade_no_9_THS](https://user-images.githubusercontent.com/98570777/165005721-a34941d6-a1ee-423c-9bb1-bb9f2b5ecc12.png)
 
-    * **Reading Scores by Grade** followed by **Reading Scores by Grade, no THS 9th Grade Data** <br />
-   ![all_reading_score_by_grade](https://user-images.githubusercontent.com/98570777/165005500-43e9d10f-2eae-4769-9714-f237109b94ce.png)![reading_score_by_grade_no_9_THS](https://user-images.githubusercontent.com/98570777/165006301-5919e3d7-7260-4b04-90a3-d4a06b98ddde.png)
+     * **Reading Scores by Grade** followed by **Reading Scores by Grade, no THS 9th Grade Data** <br />
+    ![all_reading_score_by_grade](https://user-images.githubusercontent.com/98570777/165005500-43e9d10f-2eae-4769-9714-f237109b94ce.png)![reading_score_by_grade_no_9_THS](https://user-images.githubusercontent.com/98570777/165006301-5919e3d7-7260-4b04-90a3-d4a06b98ddde.png)
 
 
    * ### Scores by school spending
-    * **Original** <br /> ![all_scores_by_school_spending](https://user-images.githubusercontent.com/98570777/165018358-99aa7146-3a5b-45ae-a8da-3cca91d1e050.png)
-    * **Omitted THS 9th Grade Data** <br />![scores_by_school_spending_no_9_THS ](https://user-images.githubusercontent.com/98570777/165008726-b1bc582d-439d-47a6-8ef5-af8100ff21a3.png)
+     * There were three changes to the Spending Range (Per Student) row "$631-645" The percentage passing math dropped from 73.5% to 66.2%; the percentage passing   reading dropped from 84.4% to 77.5%; and the percentage overall passing dropped from 62.9% to 56.4%. The lowest percentage passing overall is 53.5% which is in the highest spending range in both data sets, $646-675 and $646-655.
+     * **Original** <br /> ![all_scores_by_school_spending](https://user-images.githubusercontent.com/98570777/165018358-99aa7146-3a5b-45ae-a8da-3cca91d1e050.png)
+     * **Omitted THS 9th Grade Data** <br />![scores_by_school_spending_no_9_THS ](https://user-images.githubusercontent.com/98570777/165008726-b1bc582d-439d-47a6-8ef5-af8100ff21a3.png)
 
-       
+
    * ### Scores by school size
-    * **Original** <br />![all_scores_by_school_size_new](https://user-images.githubusercontent.com/98570777/165018910-0ce83eb8-07f9-488d-99d2-b2e446905550.png)
-
-
-
-    * **Omitted THS 9th Grade Data** <br />![scores_by_school_size_no_9_THS](https://user-images.githubusercontent.com/98570777/165008780-2602bf82-05f1-484a-99e5-7f089b4757c5.png)
-
+     * When 9th grade THS data is omitted, the percentages in passing math, reading and overall passing scores in the "Medium (1000-1999)" school size row drop by 5%. 
+     * **Original** <br />![all_scores_by_school_size_new](https://user-images.githubusercontent.com/98570777/165018910-0ce83eb8-07f9-488d-99d2-b2e446905550.png)
+     * **Omitted THS 9th Grade Data** <br />![scores_by_school_size_no_9_THS](https://user-images.githubusercontent.com/98570777/165008780-2602bf82-05f1-484a-99e5-7f089b4757c5.png)
 
    * ### Scores by school type
-    * **Original** <br />![all_score_by_school_type](https://user-images.githubusercontent.com/98570777/165008809-a1172033-5a2c-4b6e-95c6-3ef6f3541d04.png)
+     * When 9th grade THS data is omitted, the percentages in passing math, reading and overall passing scores in the "Charter" row drop by 3%.
+     * **Original** <br />![all_score_by_school_type](https://user-images.githubusercontent.com/98570777/165008809-a1172033-5a2c-4b6e-95c6-3ef6f3541d04.png)
 
-    * **Omitted THS 9th Grade Data** <br />![score_by_school_type_no_9_THS](https://user-images.githubusercontent.com/98570777/165008826-48864030-f4e6-4942-87f5-cb969299ec02.png)
+     * **Omitted THS 9th Grade Data** <br />![score_by_school_type_no_9_THS](https://user-images.githubusercontent.com/98570777/165008826-48864030-f4e6-4942-87f5-cb969299ec02.png)
 
 
-Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+## Summary: 
+### Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 large sample size, small amount of data taken out was not enough to affect the whole.
